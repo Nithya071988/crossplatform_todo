@@ -27,4 +27,6 @@ e. setup android emulator
 
 d. run the code
 
+Once run, emulator opens the UI with app.
+
 
