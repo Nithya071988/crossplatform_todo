@@ -1,7 +1,8 @@
 # crossplatform_todo
-crosspaltform assignment
+crossplatform assignment
 
 **1. create an account in back4app**
+
 https://www.back4app.com/
 
 a. After signup, create backend app
@@ -13,6 +14,7 @@ c. create table with columns or from front it will create during crud operations
 d. from app setting copy keys necessary for flutter
 
 **2. Create Fultter Project**
+
 a. In intelliJ setup android emulator, Flutter plugins 
 
 b. create Flutter project
