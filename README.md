@@ -1,9 +1,6 @@
 # crossplatform_todo
 **CROSSPLATFORM ASSIGNMENT**
 
-# crossplatform_todo
-crossplatform assignment
-
 **1. create an account in back4app**
 
 https://www.back4app.com/
